@@ -5,6 +5,7 @@ for (let i=0; i<input.length; i++){
         newArr.push(input[i]);
     }
 }
+
 console.log(newArr.join(``));
 
 }
